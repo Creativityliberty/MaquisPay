@@ -1,0 +1,5 @@
+{
+  "name": "MaquisPay",
+  "description": "Système de gestion de vente moderne pour Maquis et Bars. Suivi de stock, encaissement rapide et tableau de bord manager.",
+  "requestFramePermissions": []
+}
